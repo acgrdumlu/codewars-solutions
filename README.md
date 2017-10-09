@@ -10,6 +10,7 @@ Solutions for [CodeWars](http://www.codewars.com/) Katas.
 ## 7 KYU
 - [Dont't give me Five](https://github.com/acgrdumlu/codewars-solutions/blob/master/7%20kyu/dont_give_me_five.js)
 - [Isograms](https://github.com/acgrdumlu/codewars-solutions/blob/master/7%20kyu/isograms.js)
+- [Sum of odd Numbers](https://github.com/acgrdumlu/codewars-solutions/blob/master/7%20kyu/sum_of_odd_numbers.js)
 
 
 ## 8 KYU
