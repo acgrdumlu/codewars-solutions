@@ -16,6 +16,7 @@ Solutions for [CodeWars](http://www.codewars.com/) Katas.
 ## 8 KYU
 - [Calculate BMI](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/calculate_bmi.js)
 - [Are arrow funtion odd?](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/are_arrow_function_odd.js)
+- [Well of ideas](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/well_of_ideas.js)
 
 ## License
 License under MIT
