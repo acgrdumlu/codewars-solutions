@@ -1,10 +1,3 @@
-# Codewars solutions
-Solutions for [CodeWars](http://www.codewars.com/) Katas.
-
-# Challenges
-Both [CodeWars](https://www.codewars.com) and [HackerRank](https://www.hackerrank.com) are great places to practice programming across multiple languages. The challenges offer a great hands-on mini-project style approach to learning and practicing beyond what books and blog posts can offer.
-
-
 ### CodeWars Challenges
 Here are my various solutions to challenges attempted on CodeWars.
 
@@ -12,10 +5,16 @@ Difficulty is based on the Japanese martial arts ranking system. The lower the k
 
 | Difficulty | Challenge                                | Solution                                 |
 | ---------- | ---------------------------------------- | ---------------------------------------- |
-| 6 kyu      | [Change It Up](https://www.codewars.com/kata/58039f8efca342e4f0000023) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/6%20kyu/change_it_up.js) |
-| 6 kyu      | [Grouped By Comas](https://www.codewars.com/kata/5274e122fc75c0943d000148) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/6%20kyu/grouped_by_comas.js) |
-| 6 kyu      | [Last Digit Symmetry](https://www.codewars.com/kata/59a9466f589d2af4c50001d8) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/6%20kyu/last_digit_symmetry.js) |
-| 6 kyu      | [Who Likes It](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/6%20kyu/who_likes_it.js) |
+| 6 kyu      | [Change It Up ](https://www.codewars.com/kata/58039f8efca342e4f0000023) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/6%20kyu/change_it_up.js) |
+| 6 kyu      | [Grouped By Comas ](https://www.codewars.com/kata/5274e122fc75c0943d000148) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/6%20kyu/grouped_by_comas.js) |
+| 6 kyu      | [Last Digit Symmetry ](https://www.codewars.com/kata/59a9466f589d2af4c50001d8) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/6%20kyu/last_digit_symmetry.js) |
+| 6 kyu      | [Who Likes It ](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/6%20kyu/who_likes_it.js) |
+| 7 kyu      | [Dont't give me Five ](https://www.codewars.com/kata/dont-give-me-five/javascript) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/7%20kyu/dont_give_me_five.js) |
+| 7 kyu      | [Isograms ](https://www.codewars.com/kata/isograms/javascript) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/7%20kyu/isograms.js) |
+| 7 kyu      | [Sum of odd Numbers ](https://www.codewars.com/kata/sum-of-odd-numbers/javascript) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/7%20kyu/sum_of_odd_numbers.js) |
+| 8 kyu      | [Calculate BMI ](https://www.codewars.com/kata/calculate-bmi) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/calculate_bmi.js) |
+| 8 kyu      | [Are arrow funtion odd? ](https://www.codewars.com/kata/are-arrow-functions-odd) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/are_arrow_function_odd.js) |
+| 8 kyu      | [Well of ideas - Easy Version ](https://www.codewars.com/kata/57f222ce69e09c3630000212) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/well_of_ideas.js) |
 
 
 
