@@ -16,8 +16,9 @@ Difficulty is based on the Japanese martial arts ranking system. The lower the k
 | 8 kyu      | [Calculate BMI ](https://www.codewars.com/kata/calculate-bmi) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/calculate_bmi.js) |
 | 8 kyu      | [Are arrow funtion odd? ](https://www.codewars.com/kata/are-arrow-functions-odd) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/are_arrow_function_odd.js) |
 | 8 kyu      | [Well of ideas - Easy Version ](https://www.codewars.com/kata/57f222ce69e09c3630000212) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/well_of_ideas.js) |
-| 8 kyu      | [Remove First and Last Character ]() | [JavaScript]() |
-| 8 kyu      | [String Repeat ]() | [JavaScript]() |
+| 8 kyu      | [Remove First and Last Character ](https://www.codewars.com/kata/remove-first-and-last-character) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/remove_first_and_last_character.js) |
+| 8 kyu      | [String Repeat ](https://www.codewars.com/kata/string-repeat) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/string_repeat.js) |
+| 8 kyu      | [Sentence Smash ](https://www.codewars.com/kata/sentence-smash) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/sentence_smash.js) |
 
 
 
