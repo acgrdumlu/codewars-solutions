@@ -20,6 +20,7 @@ Difficulty is based on the Japanese martial arts ranking system. The lower the k
 | 8 kyu      | [Remove First and Last Character ](https://www.codewars.com/kata/remove-first-and-last-character) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/remove_first_and_last_character.js) |
 | 8 kyu      | [String Repeat ](https://www.codewars.com/kata/string-repeat) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/string_repeat.js) |
 | 8 kyu      | [Sentence Smash ](https://www.codewars.com/kata/sentence-smash) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/sentence_smash.js) |
+| 8 kyu      | [Keep Up the Hoop ](https://www.codewars.com/kata/keep-up-the-hoop/javascript) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/keep_up_the_hoop.js) |
 
 
 
