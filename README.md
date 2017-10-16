@@ -16,7 +16,7 @@ Difficulty is based on the Japanese martial arts ranking system. The lower the k
 | 7 kyu      | [Sum of odd Numbers ](https://www.codewars.com/kata/sum-of-odd-numbers/javascript) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/7%20kyu/sum_of_odd_numbers.js) |
 | 7 kyu      | [Get the Middle Character ](https://www.codewars.com/kata/get-the-middle-character/javascript) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/7%20kyu/get_the_middle_character.js) |
 | 7 kyu      | [Mumbling ](https://www.codewars.com/kata/mumbling) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/7%20kyu/mumbling.js) |
-| -----      | [----------------] | [----------------] |
+| -----      | ---------------- | ---------------- |
 | 8 kyu      | [Calculate BMI ](https://www.codewars.com/kata/calculate-bmi) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/calculate_bmi.js) |
 | 8 kyu      | [Are arrow funtion odd? ](https://www.codewars.com/kata/are-arrow-functions-odd) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/are_arrow_function_odd.js) |
 | 8 kyu      | [Well of ideas - Easy Version ](https://www.codewars.com/kata/57f222ce69e09c3630000212) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/8%20kyu/well_of_ideas.js) |
