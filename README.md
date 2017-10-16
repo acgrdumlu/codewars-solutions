@@ -6,11 +6,12 @@ Difficulty is based on the Japanese martial arts ranking system. The lower the k
 | Difficulty | Challenge                                | Solution                                 |
 | ---------- | ---------------------------------------- | ---------------------------------------- |
 | 5 kyu      | [Tic-Tac-Toe Checker ](https://www.codewars.com/kata/tic-tac-toe-checker/javascript) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/5%20kyu/tic_tac_toe_checker.js) |
+| -----      | ---------------- | ---------------- |
 | 6 kyu      | [Change It Up ](https://www.codewars.com/kata/58039f8efca342e4f0000023) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/6%20kyu/change_it_up.js) |
 | 6 kyu      | [Grouped By Comas ](https://www.codewars.com/kata/5274e122fc75c0943d000148) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/6%20kyu/grouped_by_comas.js) |
 | 6 kyu      | [Last Digit Symmetry ](https://www.codewars.com/kata/59a9466f589d2af4c50001d8) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/6%20kyu/last_digit_symmetry.js) |
 | 6 kyu      | [Who Likes It ](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/6%20kyu/who_likes_it.js) |
-| -----      | [----------------] | [----------------] |
+| -----      | ---------------- | ---------------- |
 | 7 kyu      | [Dont't give me Five ](https://www.codewars.com/kata/dont-give-me-five/javascript) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/7%20kyu/dont_give_me_five.js) |
 | 7 kyu      | [Isograms ](https://www.codewars.com/kata/isograms/javascript) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/7%20kyu/isograms.js) |
 | 7 kyu      | [Sum of odd Numbers ](https://www.codewars.com/kata/sum-of-odd-numbers/javascript) | [JavaScript](https://github.com/acgrdumlu/codewars-solutions/blob/master/7%20kyu/sum_of_odd_numbers.js) |
